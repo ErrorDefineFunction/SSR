@@ -1,2 +1,3 @@
 # SSR
-API testing
+
+Soldiers Sanity Repository
