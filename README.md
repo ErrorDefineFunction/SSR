@@ -1,3 +1,3 @@
 # SSR
 
-Soldier Sanity Repository
+Silent Study Room
