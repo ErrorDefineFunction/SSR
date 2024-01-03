@@ -1,3 +1,3 @@
 # SSR
 
-Soldiers Sanity Repository
+Soldier Sanity Repository
